@@ -1,3 +1,3 @@
 For demonstartion
 
-Run: **streamlit run dashboard.py**
+Run: `streamlit run dashboard.py`
